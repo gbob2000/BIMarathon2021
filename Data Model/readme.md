@@ -3,4 +3,4 @@ Business Value: Identify resource allocation by borough.
 Grain: Year/Quarter/Month, Season
 <br>
 Dimension:Location, Date, PSsite <br>
-Fact: Total trees planted
+Fact: Total tree planting allocations
